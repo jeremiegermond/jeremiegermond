@@ -42,8 +42,8 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=germondjeremie&show_icons=true&theme=radical&line_height=27&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=germondjeremie&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeremiegermind&show_icons=true&theme=radical&line_height=27&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiegermind&theme=radical">
 </p>
 
 <p align="center">
