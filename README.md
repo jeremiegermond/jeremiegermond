@@ -42,12 +42,12 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeremiegermind&show_icons=true&theme=radical&line_height=27&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiegermind&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeremiegermond&show_icons=true&theme=radical&line_height=27&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiegermond&theme=radical">
 </p>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiegermond&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <hr>
