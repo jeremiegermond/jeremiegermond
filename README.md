@@ -1,6 +1,6 @@
 <p align="center">
 
- <h1> Welcome to my userpage !</h1>
+ <h1 align="center"> Welcome to my userpage !</h1>
  <p align="center">
   I'm a 3rd year student pursuing a Master degree in Computer Science 🎓 from Epitech Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I really enjoy C/C++ and Web Developement !
 </p> 
