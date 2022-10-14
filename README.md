@@ -31,7 +31,7 @@
  <img src="https://img.shields.io/badge/-germondjeremie-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:germondjeremie@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/jeremiegermond-984547211/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremiegermond-698a18142/"/>
+ <img src="https://img.shields.io/badge/-jeremiegermond-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremiegermond-698a18142/"/>
 </a>
 </p>
 
@@ -43,7 +43,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeremiegermond&show_icons=true&theme=radical&line_height=27&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiegermond&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiegermond&theme=radical&count_private=true">
 </p>
 
 <p align="center">
