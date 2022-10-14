@@ -9,7 +9,7 @@
 
 <!--   -->
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
