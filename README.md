@@ -31,5 +31,5 @@ Check out my portfolio: [jeremie-dev.me](https://www.jeremie-dev.me/)
 
 ## 📫 How to reach me:
 - Portfolio: [jeremie-dev.me](https://www.jeremie-dev.me/)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jeremie-germond/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jeremiegermond-984547211/)
 
